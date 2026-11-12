@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# variables de entorno y compilacion
+.env
+.env.local
+android
+
+# variables de entorno
+.env
+.env.local
